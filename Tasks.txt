@@ -1,0 +1,8 @@
+1) Add reload
+2) Add attack
+3) Fix Enemy
+4) Fix weapon pickup
+5) Fix magazine pickup
+6) Make Map with 2 jump pads, 3 moving targets, 2 guards patrolling, some wall, flying targets, rotating doors, opening door with button
+7) Add SFX - shooting, background music, emtpy clip, picking up items
+8) Add UI - ammo count for each gun, above each magazine the amount generated, Lose screen, Win screen
