@@ -1,4 +1,2 @@
-- Fix Enemy
-- Make Map with 2 guards patrolling
 - Add SFX - shooting, background music, emtpy clip, picking up items
 - Add UI - Lose screen, Win screen
