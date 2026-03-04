@@ -1,6 +1,4 @@
 - Fix Enemy
-- Fix weapon pickup
-- Fix magazine pickup
-- Make Map with 2 guards patrolling, gates that open with button press
+- Make Map with 2 guards patrolling
 - Add SFX - shooting, background music, emtpy clip, picking up items
 - Add UI - ammo count for each gun, above each magazine the amount generated, Lose screen, Win screen
